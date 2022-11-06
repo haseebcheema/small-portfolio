@@ -1,0 +1,65 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-image: url(./img/vecteezy_white-office-desk-background_7619339_918.jpg);
+    background-size: cover;
+    font-family: 'Courier New', Courier, monospace;
+    overflow: hidden;
+}
+
+.navbar-container{
+    text-align: end;
+    padding: 20px;
+    padding-right: 100px;
+    font-size: x-large;
+    font-weight: bolder;
+}
+
+.navbar-container a{
+    margin-left: 100px;
+    text-decoration: none;
+    color: black;
+}
+
+.navbar-container a:hover{
+    color: rgb(238, 160, 16);
+    text-decoration: underline;
+}
+
+.logo{
+    position: relative;
+    left: -600px;
+    font-size: larger;
+}
+
+.hr1{
+    margin: 0 20px;
+}
+
+.about{
+    border-style: solid;
+    border-radius: 33px;
+    margin-top: 80px;
+    margin-left: 60px;
+    padding-right: 10px;
+    padding-left: 10px;
+    width: 500px;
+    cursor: pointer;
+}
+
+p{
+    width: 500px;
+    font-size: large;
+    text-align: center;
+}
+
+.man{
+    position: relative;
+    left: 730px;
+    bottom: 220px;
+    cursor: pointer;
+}
+
+h1{
+    text-align: center;
+}
